@@ -1,6 +1,6 @@
 {
   "name": "cds-hot",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "cds,hot,debug",
   "main": "index.js",
   "directories": {

@@ -14,7 +14,7 @@
     // 否则 不启用
     const isHot = true;
     Hot.init(__dirname,isHot);
-    const cdsRequire = Hot.require;
+    const cdsRequire = Hot.cddRequire;
     
     setInterval(()=>{
         let demo = cdsRequire('./demo');
